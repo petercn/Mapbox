@@ -90,8 +90,6 @@
     <source-file src="src/ios/MapController.m" />
     <header-file src="src/ios/MapsManager.h" />
     <source-file src="src/ios/MapsManager.m" />
-    <header-file src="src/ios/PluginLayer.h" />
-    <source-file src="src/ios/PluginLayer.m" />
     <header-file src="src/ios/PluginScrollView.h" />
     <source-file src="src/ios/PluginScrollView.m" />
 
